@@ -22,7 +22,7 @@ tags: ["#Log/DaiLylog"]
 - Bof::
 - Cool::
 
-##  💬 Observation, réfléxions diverses
+##  💬 Observations, réfléxions diverses
 
 1. Observations
 
@@ -30,10 +30,10 @@ tags: ["#Log/DaiLylog"]
 
 ## 🔃 Idées
 
-1. 
+1.
 ---
 
 ## 📅 Notes de la journée
 
 - 🕛9:00 
-	-  
+	- 
