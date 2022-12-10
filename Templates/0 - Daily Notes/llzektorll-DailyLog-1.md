@@ -1,4 +1,4 @@
-This template needs DataView plugin
+
 ---
 created: ["{{date}} {{time}}"]
 tags: ["#Log/DaiLylog"]
@@ -14,25 +14,26 @@ tags: ["#Log/DaiLylog"]
  style: number
 ```
 
-## 🔷Tracker
-- Breakfast:: 
-- Feeling:: 
-- Working On::
-- Money Spent:: €
-- Workout::
-- Motivation::
+## 🔷Suivi
 
-##  💬 Lingering feelings, Observations and Thoughts 
-1. Lingering Feelings
-	1. 
-2. Observations
-	1. 
-3. Thoughts
-	1. 
-## 🔃 Reflection
+- Tech::
+- Priorités:: 
+- Mood::
+- Bof::
+- Cool::
+
+##  💬 Observation, réfléxions diverses
+
+1. Observations
+
+2. Réflexions
+
+## 🔃 Idées
+
 1. 
 ---
 
-## 📅 Today's Notes
+## 📅 Notes de la journée
+
 - 🕛9:00 
-	- Wok up and 
+	-  

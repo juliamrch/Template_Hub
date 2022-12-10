@@ -1,4 +1,4 @@
-This template needs DataView plugin
+# Semaine 
 
 ---
 created: ["{{date}} {{time}}"]
@@ -8,36 +8,35 @@ ___
 ```toc
  style: number
 ```
-# 🌌 Overview -> 
+# 🌌 Vue d'ensemble -> 
 ```dataview
 TABLE WITHOUT ID
-	link(file.name) as "Day",
-	Breakfast AS "🍜",
-	Feeling AS "✨",
-	working-on AS "✏️",
-	money-spent AS "💸",
-	Workout AS "💪",
-	Motivation AS "💹"
+	link(file.name) as "Jour",
+	Travail AS "🛠",
+	Priorités AS "⚠️",
+	Mood AS "✨",
+	Bof AS "☹️",
+	Cool AS "😎",
 WHERE file.folder = this.file.folder AND
  contains(tag, "#Log/dailylog") 
 SORT file.name ASC
 ```
 
-### 📑 Weekly Reviews
+### 📑 Revue de la semaine
 - 
 
 ### 🔃 Reflection
 - 
-### 📜 Events
+### 📜 Évènements
 - 
-### 📃 Projects
-#### **What did I accomplish?**
+### 📃 Projets
+#### **Qu'est-ce que j'ai réalisé?**
 - 
-#### **Am I satisfied with my progress?**
+#### **Suis-je satistfait/e de mes progrès?**
 - 
-#### **What setbacks did I face?**
+#### **Quelles difficultés ai-je rencontrées?**
 - 
-#### **What are some possible improvements and plans for the future??**
+#### **Quelles pistes d'améliorations pour la suite ?**
 - 
-### 💾 Information to retain from the daily logs
+### 💾 Information à retenir des logs journaliers
 - 
